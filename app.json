@@ -13,8 +13,8 @@
     "remote",
     "uploader"
   ],
-  "website": "https://t.me/UploadLinkToFileBot",
-  "repository": "https://github.com/LISA-KOREA/UPLOADER-BOT-V4",
+  "website": "https://t.me/sm_url_uploader_bot",
+  "repository": "https://github.com/WhiteDevilSM/UPLOADER-BOT-V4",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
